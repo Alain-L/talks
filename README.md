@@ -10,7 +10,7 @@ This repository contains public slide decks from my technical talks, mostly focu
 **Date** : 17 Apr 2025  
 **Slides** : [`devoxxfr-2025.slides.html`](./devoxxfr-2025.slides.html) – [view online](https://alain-l.github.io/talks/devoxxfr-2025.slides.html#/title-slide)  
 **Program** : [devoxx.fr/agenda-2025](https://www.devoxx.fr/agenda-2025/talk/vos-requetes-sql-jusqu-a-10000-fois-plus-rapides-durablement/)  
-**Replay** : *coming soon*
+**Replay** : [youtu.be/TAJKNBPv4Wc](https://youtu.be/TAJKNBPv4Wc)
 
 ## License
 
