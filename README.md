@@ -4,6 +4,21 @@ This repository contains public slide decks from my technical talks, about Postg
 
 ---
 
+## 2026
+
+### _Observabilité PostgreSQL — La configuration des logs qui change tout_
+
+#### Devoxx France 2026
+**Language**: FR  
+**Venue**: Palais des Congrès, Paris  
+**Date**: April 23, 2026  
+**Slides**: [`devoxxfr-2026.slides.html`](./devoxxfr-2026.slides.html) – [view online](https://alain-l.github.io/talks/devoxxfr-2026.slides.html#/title-slide)  
+**Program**: [m.devoxx.com](https://m.devoxx.com/events/devoxxfr2026/talks/26828/observabilit-postgresql-la-configuration-des-logs-qui-change-tout)  
+**Replay**: _(to be published)_  
+**Notes**: PostgreSQL log observability, auto_explain benchmarks, [quellog](https://github.com/Alain-L/quellog) demo.
+
+---
+
 ## 2025
 
 ### _Vos requêtes SQL jusqu’à 10 000x plus performantes, durablement._
